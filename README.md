@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Analysis Using SQL
 
 This project showcases the power of SQL in analyzing real-world sales data from a fictional pizza restaurant. 
-By writing structured queries and performing data joins, aggregations, and time-based analysis, we extract actionable business insights from raw transactional data.
+We extract actionable business insights from raw transactional data by writing structured queries and performing data joins, aggregations, and time-based analysis.
 
 ---
 
@@ -33,7 +33,7 @@ The dataset simulates a relational database through four CSV files:
 
 - *SQL (MySQL)* – Querying and joining relational data
 - *DB Browser for MySQL Workbench 8.0 CE* – Executing SQL queries and exporting results
-- *Excel* – Visualization and charting
+- *PowerBI* – Visualization and charting
 
 ---
 
